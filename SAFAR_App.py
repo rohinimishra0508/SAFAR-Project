@@ -375,7 +375,7 @@ def home():
     ###########################################################################################
 
     # Google Maps API Key
-    API_KEY = "AIzaSyCjgVanxWrkcUokFyEXH9eTGFZb2Njey_w" 
+    API_KEY = SECRET_KEY 
 
     # Initialize geolocator for reverse geocoding
     geolocator = Nominatim(user_agent="geoapi")
