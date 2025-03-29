@@ -1,0 +1,14 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+ultralytics
+scikit-learn
+scipy
+geopy
+requests
+googlemaps
+flask
+logging
+datetime
+base64
